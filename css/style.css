@@ -276,7 +276,7 @@ html.show-mobile-nav .navbar-list {
 .navbar.fixed {
   position: fixed;
   top: -54px;
-  background-color: #ffc0d2;
+  background-color: #143264;
   transition: transform 0.5s ease, background-color 0.3s ease;
 }
 .navbar.visible {
